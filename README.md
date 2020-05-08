@@ -5,6 +5,8 @@ installation:
 - apt install figlet -y && pip3 install lolcat && apt install nmap
 - cd portscanner && python3 portscan.pyc
 
+![Screenshot](screen.png)
+
 portscanner can be run on
 - Parrot OS
 - Kali
